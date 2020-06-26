@@ -12,7 +12,7 @@ categories:
   - reverse-engineering
 tags:
   - pwnable.kr
-  - Dragon
+  - UAF
 ---
 
 ![How To Kill A Dragon!](/assets/images/dragon-challenge-pwnable/logo.jpg)
